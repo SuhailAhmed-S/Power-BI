@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,UnitPrice
+1,AlphaPhone,Electronics,699
+2,BetaTablet,Electronics,499
+3,GammaLaptop,Electronics,1199
+4,DeltaHeadphones,Accessories,199
+5,EpsilonCamera,Electronics,899
+6,ZetaSmartWatch,Accessories,299
+7,EtaSpeaker,Accessories,149
+8,ThetaPrinter,Office,349
+9,IotaMonitor,Office,249
+10,KappaRouter,Office,129
